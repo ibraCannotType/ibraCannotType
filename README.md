@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**ledgement/ledgement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me?
+## Well who are you then ?
 
-Here are some ideas to get you started:
+i'm a normal person who learned python and learned discord.py lib and still dumb on it :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and have dreams
+
+- finishing school
+- trying to be pro at python and be a full stack developer
+- eat
+
+## What are you doing here ?
+
+just coding some python codes and put them on my github :)
+
+## Ok then?
+
+```php
+<?php
+  function show_love() {
+    echo "LOVE";
+  }
+?>
+```
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ledgement&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledgement&amp;layout=compact&amp;theme=radical)](https://github.com/ledgement/)
+
+Nothing else just **Follow** me :)
+
+Twitter : [Click here](https://www.twitter.com/trainzito)
+
+Instagram : [Click here](https://www.instagram.com/trainzito)
+
+Discord : [Click here](https://www.discord.gg/m7ZbuSP4y8)
+
+> This AboutMe.md has been typing by the keyboard <3.
