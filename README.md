@@ -17,12 +17,8 @@ just coding some python codes and put them on my github :)
 
 ## Ok then?
 
-```php
-<?php
-  function show_love() {
-    echo "LOVE";
-  }
-?>
+```python
+print("i love coding shit")
 ```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ledgement&show_icons=true&theme=radical)
