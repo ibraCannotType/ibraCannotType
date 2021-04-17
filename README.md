@@ -21,9 +21,9 @@ just coding some python codes and put them on my github :)
 print("i love coding shit")
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ledgement&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trainzito&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledgement&amp;layout=compact&amp;theme=radical)](https://github.com/ledgement/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trainzito&amp;layout=compact&amp;theme=radical)](https://github.com/ledgement/)
 
 Nothing else just **Follow** me :)
 
